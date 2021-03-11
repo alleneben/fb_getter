@@ -1,0 +1,17 @@
+{
+    "authority": "web.facebook.com",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua-mobile": "?0",
+    "viewport-width": "881",
+    "content-type": "application/x-www-form-urlencoded",
+    "accept": "*/*",
+    "origin": "https://web.facebook.com",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "empty",
+    "referer": "https://web.facebook.com/",
+    "accept-language": "en-US,en;q=0.9",
+    "cookie": "sb=PWNJYCW1TkN3hzUA0KDuH4we; datr=PWNJYEBL4SB0C9zUxiHcetk4; wd=1042x623; c_user=100057878701842; xs=50%3AiQyJDqJluLCM3A%3A2%3A1615422282%3A-1%3A-1; fr=1541IIwKfzUaQKmi8.AWXaJoyG23qsZbTK91q73roqz6k.BgSWM9.u6.AAA.0.0.BgSWNK.AWU1E9EtkgU",
+    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36"
+}
